@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practice</string>
+    <string name="name_hint">Имя</string>
+    <string name="person_height_hint">Ваш рост</string>
+    <string name="person_weight_hint">Ваш вес</string>
+    <string name="age_hint">Сколько вам лет?</string>
+    <string name="click_text">Нажми на меня!</string>
+    <string name="empty_result">Результат будет здесь.</string>
+</resources>
